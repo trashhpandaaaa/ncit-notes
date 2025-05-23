@@ -1,4 +1,4 @@
-#Questions
+# Questions
 1. Write a complete definition of the class Rational with it's method defined outside.
 2. Write a program to implement this class. The promgram should
         a. Define Rational object called x.
